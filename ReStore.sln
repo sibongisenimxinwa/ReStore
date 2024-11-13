@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{B23021BB-1DDC-4753-A661-82588F59FCCD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1Demo", "..\..\C#\ConsoleApp1Demo\ConsoleApp1Demo.csproj", "{FD627657-F292-49D3-BF0A-04CF1FD2B667}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{B23021BB-1DDC-4753-A661-82588F59FCCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B23021BB-1DDC-4753-A661-82588F59FCCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B23021BB-1DDC-4753-A661-82588F59FCCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD627657-F292-49D3-BF0A-04CF1FD2B667}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD627657-F292-49D3-BF0A-04CF1FD2B667}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD627657-F292-49D3-BF0A-04CF1FD2B667}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD627657-F292-49D3-BF0A-04CF1FD2B667}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
